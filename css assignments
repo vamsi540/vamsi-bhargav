@@ -1,4 +1,3 @@
 p {
-  color: red;
-  text-align: center;
+ backgroung color: green
 }
